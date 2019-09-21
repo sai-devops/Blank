@@ -5,4 +5,8 @@ this file edited by branch
 
 
 This file is edited by Branch A
+<<<<<<< HEAD
 hellow
+=======
+hi this file is edited on 21/9
+>>>>>>> 74b7309ce68d5c33107ed89dc2fb47cc1ed6464e
