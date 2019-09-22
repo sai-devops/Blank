@@ -7,18 +7,15 @@ this file edited by branch
 This file is edited by Branch A
 <<<<<<< HEAD
 hellow
-=======
 hi this file is edited on 21/9
 
 this is creating form remote branch
-<<<<<<< Updated upstream
 11
 12
 13
 14
 15
 16
-=======
 
 1
 2
@@ -30,4 +27,4 @@ this is creating form remote branch
 8
 9
 10
->>>>>>> Stashed changes
+
