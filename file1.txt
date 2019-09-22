@@ -2,13 +2,9 @@ Helow world this is eidited file.
 this git lab
 this is edited from gitfolder
 this file edited by branch
-
-
 This file is edited by Branch A
-<<<<<<< HEAD
-hellow
-=======
+hello
 hi this file is edited on 21/9
 this is creating form remote branch
-===================================
+
 This is practiece file
