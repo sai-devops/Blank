@@ -5,10 +5,8 @@ this file edited by branch
 
 
 This file is edited by Branch A
-<<<<<<< HEAD
 hellow
-=======
+
 hi this file is edited on 21/9
-this is creating form remote branch
-===================================
-This is practiece file
+this is creating form remote brach
+this is practiece file
